@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Alberto
-- 👀 I’m interested in cognitive performance, quantum mechanics, and Machine Learning.
-- 🌱 I’m currently learning Anomaly Detection Systems using Machine Learning. (ML by Andrew Ng)
-- 💞️ I’m looking to collaborate on TBD.
-- 📫 How to reach me: alberto.aldapa3@gmail.com
+- 👋 Hello, My name is Alberto!
+- 👀 I’m interested in Website Design/Development, Business, Personal Development, and Machine Learning.
+- 🌱 I’m currently looking for a job as a Data Analyst.
+- 📫 How to reach me: www.untappedanalysis.com
 
 <!---
 DontBlamethegenes/DontBlamethegenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
