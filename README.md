@@ -1,5 +1,5 @@
 - 👋 Hello, My name is Alberto!
-- 👀 I’m interested in Website Design/Development, Business, Personal Development, and Machine Learning.
+- 👀 I’m interested in Machine Learning, Website Design/Development, Business, Personal Development, and 3D design.
 - 🌱 I’m currently looking for a job as a Data Scientist.
 - 🕸️ Check out my website: www.untappedanalysis.com
 
